@@ -2,6 +2,8 @@
 
 ・Game.cppとGame.hをそれぞれPDFのように修正する
 
+・Clear.cppをPDFのように修正する
+
 ・ビルドして確認する
 
 
